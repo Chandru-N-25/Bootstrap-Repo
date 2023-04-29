@@ -3,8 +3,9 @@
     margin:0;
     padding:0;
 }
-.content{
+.main_div{
     background-color: #f6c56e;
+    margin-top:500px;
 }
 .main_heading{
     font-family: 'Bree Serif', serif;
