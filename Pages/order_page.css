@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+.card-body{
+    background-color: #f6c56e;
+}
+.card-title{
+    font-family: 'Bree Serif', serif;
+}
+.btn{
+    background-color:#ffffff;
+}
